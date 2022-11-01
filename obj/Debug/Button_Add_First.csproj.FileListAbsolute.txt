@@ -1,0 +1,4 @@
+D:\Никита\Лаба 6\Button_Add_First\obj\Debug\Button_Add_First.csproj.AssemblyReference.cache
+D:\Никита\Лаба 6\Button_Add_First\obj\Debug\Button_Add_First.csproj.SuggestedBindingRedirects.cache
+D:\Никита\Лаба 6\Button_Add_First\obj\Debug\App.g.cs
+D:\Никита\Лаба 6\Button_Add_First\obj\Debug\Button_Add_First_MarkupCompile.cache
